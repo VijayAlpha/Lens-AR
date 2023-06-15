@@ -1,0 +1,39 @@
+{
+    "1686844056140008:5763": {
+        "IFileManager": {
+            "path": "Files/File_1686844056140008_5763"
+        }
+    },
+    "1686844056141858:5764": {
+        "IResourceController": {
+            "name": "Shingora",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686844056141867:5765",
+            "fileId": "1686844056140008:5763",
+            "originalId": "1686844056176591:5774",
+            "publicId": "1686844056854210:5978",
+            "expected_hash": "bee59f52bbe4822dfdb468967e08036f"
+        },
+        "IResourceManager": {
+            "uid": "1686844056141867:5765",
+            "name": "Files/File_1686844056140008_5763",
+            "flags": 1
+        }
+    },
+    "1686844056176591:5774": {
+        "IFileManager": {
+            "path": "Files/File_1686844056176591_5774.lsmat"
+        }
+    },
+    "1686844056854210:5978": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Shingora/Materials/Shingora.lsmat",
+                "hash": "6036b44e7c49d8756acfe10c29ff57ba"
+            }
+        }
+    }
+}

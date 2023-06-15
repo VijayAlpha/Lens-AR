@@ -1,0 +1,50 @@
+{
+    "1686843641521242:5218": {
+        "IResourceController": {
+            "name": "Polo Shirt",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1686843647562951:6218",
+            "publicId": "1686843647609663:6228",
+            "expected_hash": "161afe1bf08750f27c71058afa87a3d5",
+            "resources": [
+                "1686843646984654:6027",
+                "1686843647013154:6048",
+                "1686843647512336:6189"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "false",
+                    "importVertexColor": "false",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Polo shirt 1",
+                        "v": "1686843647016055:6051"
+                    }
+                ]
+            }
+        }
+    },
+    "1686843647562951:6218": {
+        "IFileManager": {
+            "path": "Files/File_1686843647562951_6218.fbx"
+        }
+    },
+    "1686843647609663:6228": {
+        "IResourceController": {
+            "public": {
+                "path": "Polo Shirt.fbx",
+                "hash": "161afe1bf08750f27c71058afa87a3d5"
+            }
+        }
+    }
+}

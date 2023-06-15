@@ -1,0 +1,50 @@
+{
+    "1686844597801342:21008": {
+        "IResourceController": {
+            "name": "Boston T Shirt",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1686844604165948:21783",
+            "publicId": "1686844604202695:21789",
+            "expected_hash": "6a3d799f3056abcd35a07225f9d37b5f",
+            "resources": [
+                "1686844603568528:21595",
+                "1686844603604560:21614",
+                "1686844604121169:21756"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "false",
+                    "importVertexColor": "false",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Boston T shirt",
+                        "v": "1686844603606693:21617"
+                    }
+                ]
+            }
+        }
+    },
+    "1686844604165948:21783": {
+        "IFileManager": {
+            "path": "Files/File_1686844604165948_21783.fbx"
+        }
+    },
+    "1686844604202695:21789": {
+        "IResourceController": {
+            "public": {
+                "path": "Boston T Shirt.fbx",
+                "hash": "6a3d799f3056abcd35a07225f9d37b5f"
+            }
+        }
+    }
+}

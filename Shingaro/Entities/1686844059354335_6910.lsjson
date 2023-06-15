@@ -1,0 +1,79 @@
+{
+    "1686844059351301:6909": {
+        "IFileManager": {
+            "path": "Files/File_1686844059351301_6909.pvr"
+        }
+    },
+    "1686844059354335:6910": {
+        "IResourceController": {
+            "name": "Shingora_diffuse",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686844059359773:6911",
+            "fileId": "1686844059351301:6909",
+            "originalId": "1686844059360543:6916",
+            "publicId": "1686844059438950:6931",
+            "expected_hash": "ae64f2162d02cecc6b64101437477974",
+            "additional": {
+                "originHash": "6696fe3debe7b736db99a75dd54ede88"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686844059359773:6911",
+            "name": "Files/File_1686844059351301_6909.png",
+            "flags": 1
+        }
+    },
+    "1686844059359773:6911": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0745f2e8a2db130dfed478fdb15e3b44"
+                    },
+                    "v": "1686844121440356:14126"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "87101",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "336655",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686844059398554:6922"
+        }
+    },
+    "1686844059360543:6916": {
+        "IFileManager": {
+            "path": "Files/File_1686844059360543_6916.png"
+        }
+    },
+    "1686844059398554:6922": {
+        "IFileManager": {
+            "path": "Files/File_1686844059398554_6922.png"
+        }
+    },
+    "1686844059438950:6931": {
+        "IResourceController": {
+            "public": {
+                "path": "Shingora_diffuse.png",
+                "hash": "6696fe3debe7b736db99a75dd54ede88"
+            }
+        }
+    },
+    "1686844121440356:14126": {
+        "IFileManager": {
+            "path": "Files/File_1686844121440356_14126.pvr"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1686843647013154:6048": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686843647622762:6229",
+            "resources": [
+                "1686843647016046:6050"
+            ]
+        }
+    },
+    "1686843647622762:6229": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Polo Shirt/Materials"
+            }
+        }
+    }
+}

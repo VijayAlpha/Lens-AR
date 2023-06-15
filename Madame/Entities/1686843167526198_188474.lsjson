@@ -1,0 +1,79 @@
+{
+    "1686843167522764:188471": {
+        "IFileManager": {
+            "path": "Files/File_1686843167522764_188471.pvr"
+        }
+    },
+    "1686843167526198:188474": {
+        "IResourceController": {
+            "name": "Madame_diffuse",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686843167536186:188475",
+            "fileId": "1686843167522764:188471",
+            "originalId": "1686843167536871:188480",
+            "publicId": "1686843167596021:188492",
+            "expected_hash": "6153b4dac968cdd106a4b38a7d27d54f",
+            "additional": {
+                "originHash": "eb93c2778646f0611c2cab5070da02d2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686843167536186:188475",
+            "name": "Files/File_1686843167522764_188471.png",
+            "flags": 1
+        }
+    },
+    "1686843167536186:188475": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c3907954f266283b95b7428263421f79"
+                    },
+                    "v": "1686843203483971:194079"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "49202",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "140219",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686843167563933:188486"
+        }
+    },
+    "1686843167536871:188480": {
+        "IFileManager": {
+            "path": "Files/File_1686843167536871_188480.png"
+        }
+    },
+    "1686843167563933:188486": {
+        "IFileManager": {
+            "path": "Files/File_1686843167563933_188486.png"
+        }
+    },
+    "1686843167596021:188492": {
+        "IResourceController": {
+            "public": {
+                "path": "Madame_diffuse.png",
+                "hash": "eb93c2778646f0611c2cab5070da02d2"
+            }
+        }
+    },
+    "1686843203483971:194079": {
+        "IFileManager": {
+            "path": "Files/File_1686843203483971_194079.pvr"
+        }
+    }
+}

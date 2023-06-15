@@ -1,0 +1,30 @@
+{
+    "1686844056625363:5895": {
+        "IResourceController": {
+            "name": "Shingora",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1686844056625241:5879",
+            "fileId": "1686844056683672:5925",
+            "originalId": "1686844336204193:41727",
+            "expected_hash": "86fda7c79eb90e843e972282fce59bc7"
+        },
+        "IResourceManager": {
+            "uid": "1686844056625241:5879",
+            "name": "Shingora",
+            "flags": 0
+        }
+    },
+    "1686844056683672:5925": {
+        "IFileManager": {
+            "path": "Files/File_1686844056683672_5925.oprfb"
+        }
+    },
+    "1686844336204193:41727": {
+        "IFileManager": {
+            "path": "Files/File_1686844336204193_41727.oprfb"
+        }
+    }
+}

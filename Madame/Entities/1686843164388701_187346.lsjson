@@ -1,0 +1,39 @@
+{
+    "1686843164386783:187343": {
+        "IFileManager": {
+            "path": "Files/File_1686843164386783_187343"
+        }
+    },
+    "1686843164388701:187346": {
+        "IResourceController": {
+            "name": "Madame",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686843164388714:187347",
+            "fileId": "1686843164386783:187343",
+            "originalId": "1686843164431242:187356",
+            "publicId": "1686843165019599:187511",
+            "expected_hash": "bee59f52bbe4822dfdb468967e08036f"
+        },
+        "IResourceManager": {
+            "uid": "1686843164388714:187347",
+            "name": "Files/File_1686843164386783_187343",
+            "flags": 1
+        }
+    },
+    "1686843164431242:187356": {
+        "IFileManager": {
+            "path": "Files/File_1686843164431242_187356.lsmat"
+        }
+    },
+    "1686843165019599:187511": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Madame/Materials/Madame.lsmat",
+                "hash": "36efed16388117e3dddaea4eba30c008"
+            }
+        }
+    }
+}

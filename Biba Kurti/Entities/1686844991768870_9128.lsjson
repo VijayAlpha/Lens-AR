@@ -1,0 +1,50 @@
+{
+    "1686844991768870:9128": {
+        "IResourceController": {
+            "name": "Biba Kurti",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1686844999452600:10360",
+            "publicId": "1686844999527353:10373",
+            "expected_hash": "cd4cc41a72341b1a1596dcd85b163089",
+            "resources": [
+                "1686844998840018:10170",
+                "1686844998874114:10191",
+                "1686844999399510:10332"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "false",
+                    "importVertexColor": "false",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "biba kurti",
+                        "v": "1686844998877172:10196"
+                    }
+                ]
+            }
+        }
+    },
+    "1686844999452600:10360": {
+        "IFileManager": {
+            "path": "Files/File_1686844999452600_10360.fbx"
+        }
+    },
+    "1686844999527353:10373": {
+        "IResourceController": {
+            "public": {
+                "path": "Biba Kurti.fbx",
+                "hash": "cd4cc41a72341b1a1596dcd85b163089"
+            }
+        }
+    }
+}

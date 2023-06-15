@@ -1,0 +1,30 @@
+{
+    "1686844999399510:10332": {
+        "IResourceController": {
+            "name": "Biba Kurti",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1686844999399394:10316",
+            "fileId": "1686844999446794:10359",
+            "originalId": "1686845098945660:25089",
+            "expected_hash": "be63e6e57e2e801e57eee4e91b786531"
+        },
+        "IResourceManager": {
+            "uid": "1686844999399394:10316",
+            "name": "Biba Kurti",
+            "flags": 0
+        }
+    },
+    "1686844999446794:10359": {
+        "IFileManager": {
+            "path": "Files/File_1686844999446794_10359.oprfb"
+        }
+    },
+    "1686845098945660:25089": {
+        "IFileManager": {
+            "path": "Files/File_1686845098945660_25089.oprfb"
+        }
+    }
+}

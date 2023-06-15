@@ -1,0 +1,17 @@
+{
+    "1686748614914755:802375": {
+        "IResourceController": {
+            "name": "Full Body Mesh - Occluder",
+            "type": 3,
+            "subtype": 4,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686748614914750:802374"
+        },
+        "IResourceManager": {
+            "uid": "1686748614914750:802374",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

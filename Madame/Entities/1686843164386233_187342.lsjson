@@ -1,0 +1,22 @@
+{
+    "1686843164386233:187342": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686843165017244:187510",
+            "resources": [
+                "1686843164388701:187346"
+            ]
+        }
+    },
+    "1686843165017244:187510": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Madame/Materials"
+            }
+        }
+    }
+}

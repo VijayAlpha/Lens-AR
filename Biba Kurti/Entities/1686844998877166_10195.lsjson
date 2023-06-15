@@ -1,0 +1,39 @@
+{
+    "1686844998874771:10192": {
+        "IFileManager": {
+            "path": "Files/File_1686844998874771_10192"
+        }
+    },
+    "1686844998877166:10195": {
+        "IResourceController": {
+            "name": "biba kurti",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686844998877172:10196",
+            "fileId": "1686844998874771:10192",
+            "originalId": "1686844998911103:10205",
+            "publicId": "1686844999542260:10375",
+            "expected_hash": "bee59f52bbe4822dfdb468967e08036f"
+        },
+        "IResourceManager": {
+            "uid": "1686844998877172:10196",
+            "name": "Files/File_1686844998874771_10192",
+            "flags": 1
+        }
+    },
+    "1686844998911103:10205": {
+        "IFileManager": {
+            "path": "Files/File_1686844998911103_10205.lsmat"
+        }
+    },
+    "1686844999542260:10375": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Biba Kurti/Materials/biba kurti.lsmat",
+                "hash": "f28913531d1043de8592c3ebbb3780cf"
+            }
+        }
+    }
+}

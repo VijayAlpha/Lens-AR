@@ -1,0 +1,79 @@
+{
+    "1686844568094590:16827": {
+        "IFileManager": {
+            "path": "Files/File_1686844568094590_16827.pvr"
+        }
+    },
+    "1686844568101534:16828": {
+        "IResourceController": {
+            "name": "Boston T Shirt_normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686844568128923:16832",
+            "fileId": "1686844568094590:16827",
+            "originalId": "1686844568129851:16837",
+            "publicId": "1686844568215495:16844",
+            "expected_hash": "b5f66e8c862108d009077aaa4e0d9629",
+            "additional": {
+                "originHash": "f949ee3e9184f780306f90445fd7b24a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686844568128923:16832",
+            "name": "Files/File_1686844568094590_16827.png",
+            "flags": 1
+        }
+    },
+    "1686844568128923:16832": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "93e9c9acea53af8e957df2f2b5daf394"
+                    },
+                    "v": "1686844602211137:21394"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "66268",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "219209",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686844568168677:16840"
+        }
+    },
+    "1686844568129851:16837": {
+        "IFileManager": {
+            "path": "Files/File_1686844568129851_16837.png"
+        }
+    },
+    "1686844568168677:16840": {
+        "IFileManager": {
+            "path": "Files/File_1686844568168677_16840.png"
+        }
+    },
+    "1686844568215495:16844": {
+        "IResourceController": {
+            "public": {
+                "path": "Boston T Shirt_normal.png",
+                "hash": "f949ee3e9184f780306f90445fd7b24a"
+            }
+        }
+    },
+    "1686844602211137:21394": {
+        "IFileManager": {
+            "path": "Files/File_1686844602211137_21394.pvr"
+        }
+    }
+}

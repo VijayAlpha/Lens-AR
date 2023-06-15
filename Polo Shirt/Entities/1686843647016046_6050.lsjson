@@ -1,0 +1,39 @@
+{
+    "1686843647013867:6049": {
+        "IFileManager": {
+            "path": "Files/File_1686843647013867_6049"
+        }
+    },
+    "1686843647016046:6050": {
+        "IResourceController": {
+            "name": "Polo shirt 1",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686843647016055:6051",
+            "fileId": "1686843647013867:6049",
+            "originalId": "1686843647046452:6060",
+            "publicId": "1686843647623865:6230",
+            "expected_hash": "bee59f52bbe4822dfdb468967e08036f"
+        },
+        "IResourceManager": {
+            "uid": "1686843647016055:6051",
+            "name": "Files/File_1686843647013867_6049",
+            "flags": 1
+        }
+    },
+    "1686843647046452:6060": {
+        "IFileManager": {
+            "path": "Files/File_1686843647046452_6060.lsmat"
+        }
+    },
+    "1686843647623865:6230": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Polo Shirt/Materials/Polo shirt 1.lsmat",
+                "hash": "0ee090f4f492e3d3b4237097db9a1129"
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1686844050958143:4987": {
+        "IResourceController": {
+            "name": "Shingora",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1686844056688874:5926",
+            "publicId": "1686844056800938:5939",
+            "expected_hash": "3383a8795a6b41402ca52796c734cb35",
+            "resources": [
+                "1686844056101845:5738",
+                "1686844056139487:5762",
+                "1686844056625363:5895"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "false",
+                    "importVertexColor": "false",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Shingora",
+                        "v": "1686844056141867:5765"
+                    }
+                ]
+            }
+        }
+    },
+    "1686844056688874:5926": {
+        "IFileManager": {
+            "path": "Files/File_1686844056688874_5926.fbx"
+        }
+    },
+    "1686844056800938:5939": {
+        "IResourceController": {
+            "public": {
+                "path": "Shingora.fbx",
+                "hash": "3383a8795a6b41402ca52796c734cb35"
+            }
+        }
+    }
+}

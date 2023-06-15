@@ -1,0 +1,50 @@
+{
+    "1686843160245261:186717": {
+        "IResourceController": {
+            "name": "Madame",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1686843164910681:187494",
+            "publicId": "1686843164986316:187504",
+            "expected_hash": "4c4ab7642f43290f663db37461a09205",
+            "resources": [
+                "1686843164336831:187318",
+                "1686843164386233:187342",
+                "1686843164871111:187470"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "false",
+                    "importVertexColor": "false",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Madame",
+                        "v": "1686843164388714:187347"
+                    }
+                ]
+            }
+        }
+    },
+    "1686843164910681:187494": {
+        "IFileManager": {
+            "path": "Files/File_1686843164910681_187494.fbx"
+        }
+    },
+    "1686843164986316:187504": {
+        "IResourceController": {
+            "public": {
+                "path": "Madame.fbx",
+                "hash": "4c4ab7642f43290f663db37461a09205"
+            }
+        }
+    }
+}

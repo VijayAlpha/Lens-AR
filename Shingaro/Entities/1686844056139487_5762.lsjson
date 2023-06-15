@@ -1,0 +1,22 @@
+{
+    "1686844056139487:5762": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686844056853198:5974",
+            "resources": [
+                "1686844056141858:5764"
+            ]
+        }
+    },
+    "1686844056853198:5974": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Shingora/Materials"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1686843647512336:6189": {
+        "IResourceController": {
+            "name": "Polo Shirt",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1686843647512229:6173",
+            "fileId": "1686843647554329:6214",
+            "originalId": "1686843740820393:23374",
+            "expected_hash": "b84e079439a53627325ee5bb00eab66e"
+        },
+        "IResourceManager": {
+            "uid": "1686843647512229:6173",
+            "name": "Polo Shirt",
+            "flags": 0
+        }
+    },
+    "1686843647554329:6214": {
+        "IFileManager": {
+            "path": "Files/File_1686843647554329_6214.oprfb"
+        }
+    },
+    "1686843740820393:23374": {
+        "IFileManager": {
+            "path": "Files/File_1686843740820393_23374.oprfb"
+        }
+    }
+}

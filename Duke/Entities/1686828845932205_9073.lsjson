@@ -1,0 +1,39 @@
+{
+    "1686828845930206:9072": {
+        "IFileManager": {
+            "path": "Files/File_1686828845930206_9072"
+        }
+    },
+    "1686828845932205:9073": {
+        "IResourceController": {
+            "name": "Duke",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686828845932215:9074",
+            "fileId": "1686828845930206:9072",
+            "originalId": "1686828845968006:9083",
+            "publicId": "1686828846644780:9245",
+            "expected_hash": "bee59f52bbe4822dfdb468967e08036f"
+        },
+        "IResourceManager": {
+            "uid": "1686828845932215:9074",
+            "name": "Files/File_1686828845930206_9072",
+            "flags": 1
+        }
+    },
+    "1686828845968006:9083": {
+        "IFileManager": {
+            "path": "Files/File_1686828845968006_9083.lsmat"
+        }
+    },
+    "1686828846644780:9245": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Dukeblender/Materials/Duke.lsmat",
+                "hash": "0b141f8496c61f9af769ae0d73fd3805"
+            }
+        }
+    }
+}

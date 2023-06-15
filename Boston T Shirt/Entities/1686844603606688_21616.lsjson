@@ -1,0 +1,39 @@
+{
+    "1686844603605041:21615": {
+        "IFileManager": {
+            "path": "Files/File_1686844603605041_21615"
+        }
+    },
+    "1686844603606688:21616": {
+        "IResourceController": {
+            "name": "Boston T shirt",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686844603606693:21617",
+            "fileId": "1686844603605041:21615",
+            "originalId": "1686844603641589:21623",
+            "publicId": "1686844604215930:21791",
+            "expected_hash": "01ebc1c413b797bf34d1a9c4c6e73757"
+        },
+        "IResourceManager": {
+            "uid": "1686844603606693:21617",
+            "name": "Files/File_1686844603605041_21615",
+            "flags": 1
+        }
+    },
+    "1686844603641589:21623": {
+        "IFileManager": {
+            "path": "Files/File_1686844603641589_21623.lsmat"
+        }
+    },
+    "1686844604215930:21791": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Boston T Shirt/Materials/Boston T shirt.lsmat",
+                "hash": "ee546d1834a38391339fa9ab66adefd3"
+            }
+        }
+    }
+}

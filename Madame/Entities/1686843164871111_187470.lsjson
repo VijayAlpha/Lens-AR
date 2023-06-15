@@ -1,0 +1,30 @@
+{
+    "1686843164871111:187470": {
+        "IResourceController": {
+            "name": "Madame",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1686843164870980:187454",
+            "fileId": "1686843164906715:187493",
+            "originalId": "1686843300902381:208421",
+            "expected_hash": "ba2f09f37e32241fcbb8effacc9754a5"
+        },
+        "IResourceManager": {
+            "uid": "1686843164870980:187454",
+            "name": "Madame",
+            "flags": 0
+        }
+    },
+    "1686843164906715:187493": {
+        "IFileManager": {
+            "path": "Files/File_1686843164906715_187493.oprfb"
+        }
+    },
+    "1686843300902381:208421": {
+        "IFileManager": {
+            "path": "Files/File_1686843300902381_208421.oprfb"
+        }
+    }
+}

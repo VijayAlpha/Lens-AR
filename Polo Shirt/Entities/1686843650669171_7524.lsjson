@@ -1,0 +1,79 @@
+{
+    "1686843650661568:7523": {
+        "IFileManager": {
+            "path": "Files/File_1686843650661568_7523.pvr"
+        }
+    },
+    "1686843650669171:7524": {
+        "IResourceController": {
+            "name": "Polo Shirt_normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686843650678079:7528",
+            "fileId": "1686843650661568:7523",
+            "originalId": "1686843650678570:7533",
+            "publicId": "1686843650748599:7540",
+            "expected_hash": "0aad82f4199d142b5653f7e33b143470",
+            "additional": {
+                "originHash": "22b445191615fb8d1bf128ad172e7d00"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686843650678079:7528",
+            "name": "Files/File_1686843650661568_7523.png",
+            "flags": 1
+        }
+    },
+    "1686843650678079:7528": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "1a9f55c7510f530aac8096ff4b933161"
+                    },
+                    "v": "1686843651949015:8230"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "28665",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "100114",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686843650708649:7534"
+        }
+    },
+    "1686843650678570:7533": {
+        "IFileManager": {
+            "path": "Files/File_1686843650678570_7533.png"
+        }
+    },
+    "1686843650708649:7534": {
+        "IFileManager": {
+            "path": "Files/File_1686843650708649_7534.png"
+        }
+    },
+    "1686843650748599:7540": {
+        "IResourceController": {
+            "public": {
+                "path": "Polo Shirt_normal.png",
+                "hash": "22b445191615fb8d1bf128ad172e7d00"
+            }
+        }
+    },
+    "1686843651949015:8230": {
+        "IFileManager": {
+            "path": "Files/File_1686843651949015_8230.pvr"
+        }
+    }
+}

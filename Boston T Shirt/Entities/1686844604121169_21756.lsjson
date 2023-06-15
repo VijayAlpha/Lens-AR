@@ -1,0 +1,30 @@
+{
+    "1686844604121169:21756": {
+        "IResourceController": {
+            "name": "Boston T Shirt",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1686844604121081:21740",
+            "fileId": "1686844604160920:21782",
+            "originalId": "1686844915132020:70392",
+            "expected_hash": "5cae0a19249f72ea0882d527a0d37fef"
+        },
+        "IResourceManager": {
+            "uid": "1686844604121081:21740",
+            "name": "Boston T Shirt",
+            "flags": 0
+        }
+    },
+    "1686844604160920:21782": {
+        "IFileManager": {
+            "path": "Files/File_1686844604160920_21782.oprfb"
+        }
+    },
+    "1686844915132020:70392": {
+        "IFileManager": {
+            "path": "Files/File_1686844915132020_70392.oprfb"
+        }
+    }
+}
