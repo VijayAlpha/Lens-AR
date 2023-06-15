@@ -1,0 +1,30 @@
+{
+    "1686828846453606:9194": {
+        "IResourceController": {
+            "name": "Dukeblender",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1686828846453462:9178",
+            "fileId": "1686828846495786:9222",
+            "originalId": "1686830615729220:282775",
+            "expected_hash": "1070b921ff219d056a326e25872d0291"
+        },
+        "IResourceManager": {
+            "uid": "1686828846453462:9178",
+            "name": "Dukeblender",
+            "flags": 0
+        }
+    },
+    "1686828846495786:9222": {
+        "IFileManager": {
+            "path": "Files/File_1686828846495786_9222.oprfb"
+        }
+    },
+    "1686830615729220:282775": {
+        "IFileManager": {
+            "path": "Files/File_1686830615729220_282775.oprfb"
+        }
+    }
+}

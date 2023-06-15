@@ -1,0 +1,79 @@
+{
+    "1686831732342311:419287": {
+        "IFileManager": {
+            "path": "Files/File_1686831732342311_419287.pvr"
+        }
+    },
+    "1686831732345332:419288": {
+        "IResourceController": {
+            "name": "Biba Kurti_diffuse",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686831732351530:419289",
+            "fileId": "1686831732342311:419287",
+            "originalId": "1686831732352354:419294",
+            "publicId": "1686831732425114:419303",
+            "expected_hash": "e174d4397115f38e5f1d54e80a16d49d",
+            "additional": {
+                "originHash": "18e642243d9f08f125a7f3d8dfc94e52"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686831732351530:419289",
+            "name": "Files/File_1686831732342311_419287.png",
+            "flags": 1
+        }
+    },
+    "1686831732351530:419289": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3781b03dc4ea743b55582cb484e64d94"
+                    },
+                    "v": "1686831787319403:424677"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "111414",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "267645",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686831732394338:419297"
+        }
+    },
+    "1686831732352354:419294": {
+        "IFileManager": {
+            "path": "Files/File_1686831732352354_419294.png"
+        }
+    },
+    "1686831732394338:419297": {
+        "IFileManager": {
+            "path": "Files/File_1686831732394338_419297.png"
+        }
+    },
+    "1686831732425114:419303": {
+        "IResourceController": {
+            "public": {
+                "path": "Biba Kurti_diffuse.png",
+                "hash": "18e642243d9f08f125a7f3d8dfc94e52"
+            }
+        }
+    },
+    "1686831787319403:424677": {
+        "IFileManager": {
+            "path": "Files/File_1686831787319403_424677.pvr"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1686828845929529:9071": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1686828846643527:9244",
+            "resources": [
+                "1686828845932205:9073",
+                "1686829771246159:144408"
+            ]
+        }
+    },
+    "1686828846643527:9244": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Dukeblender/Materials"
+            }
+        }
+    }
+}

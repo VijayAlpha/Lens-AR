@@ -1,0 +1,42 @@
+{
+    "1686829771243927:144407": {
+        "IFileManager": {
+            "path": "Files/File_1686829771243927_144407.jpeg"
+        }
+    },
+    "1686829771246159:144408": {
+        "IResourceController": {
+            "name": "White",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686829771253476:144411",
+            "fileId": "1686829771243927:144407",
+            "originalId": "1686829771254240:144416",
+            "publicId": "1686829771262966:144417",
+            "expected_hash": "c7f3cacdee70cd2d8a6801945e0d044f",
+            "additional": {
+                "originHash": "faa47b7e8c6fd99d30a0496447186561"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686829771253476:144411",
+            "name": "Files/File_1686829771243927_144407.jpeg",
+            "flags": 1
+        }
+    },
+    "1686829771254240:144416": {
+        "IFileManager": {
+            "path": "Files/File_1686829771254240_144416.jpeg"
+        }
+    },
+    "1686829771262966:144417": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Dukeblender/Materials/White.jpeg",
+                "hash": "faa47b7e8c6fd99d30a0496447186561"
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1686828836845238:7983": {
+        "IResourceController": {
+            "name": "Dukeblender",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1686828846500678:9223",
+            "publicId": "1686828846593933:9238",
+            "expected_hash": "3f6a421c6e02c2110021bff486ab2bfc",
+            "resources": [
+                "1686828845875281:9047",
+                "1686828845929529:9071",
+                "1686828846453606:9194"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "false",
+                    "importVertexColor": "false",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1686828845932215:9074"
+                    }
+                ]
+            }
+        }
+    },
+    "1686828846500678:9223": {
+        "IFileManager": {
+            "path": "Files/File_1686828846500678_9223.fbx"
+        }
+    },
+    "1686828846593933:9238": {
+        "IResourceController": {
+            "public": {
+                "path": "Dukeblender.fbx",
+                "hash": "3f6a421c6e02c2110021bff486ab2bfc"
+            }
+        }
+    }
+}

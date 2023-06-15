@@ -1,0 +1,79 @@
+{
+    "1686828893348357:15715": {
+        "IFileManager": {
+            "path": "Files/File_1686828893348357_15715.pvr"
+        }
+    },
+    "1686828893351117:15716": {
+        "IResourceController": {
+            "name": "Duke_normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686828893466288:15732",
+            "fileId": "1686828893348357:15715",
+            "originalId": "1686828893466866:15737",
+            "publicId": "1686828893558829:15744",
+            "expected_hash": "df54163ff3fe48aa357853b56bd54e00",
+            "additional": {
+                "originHash": "60140d0f43aeb112a55a1e943fb9cb10"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686828893466288:15732",
+            "name": "Files/File_1686828893348357_15715.png",
+            "flags": 1
+        }
+    },
+    "1686828893466288:15732": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b09655a90b4721a42ef4cd8be8c258c2"
+                    },
+                    "v": "1686828962406393:24180"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "89700",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "250461",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686828893519890:15741"
+        }
+    },
+    "1686828893466866:15737": {
+        "IFileManager": {
+            "path": "Files/File_1686828893466866_15737.png"
+        }
+    },
+    "1686828893519890:15741": {
+        "IFileManager": {
+            "path": "Files/File_1686828893519890_15741.png"
+        }
+    },
+    "1686828893558829:15744": {
+        "IResourceController": {
+            "public": {
+                "path": "Duke_normal.png",
+                "hash": "60140d0f43aeb112a55a1e943fb9cb10"
+            }
+        }
+    },
+    "1686828962406393:24180": {
+        "IFileManager": {
+            "path": "Files/File_1686828962406393_24180.pvr"
+        }
+    }
+}
